@@ -1,9 +1,8 @@
- 
+import Card from "@/components/custom/card";
+import Page from "@/components/custom/page";
 
 export default function Home() {
   return (
-    <main className="text-3xl">
-      under devlopment .... 
-    </main>
+    <Page Children={<Card />} />
   );
 }
