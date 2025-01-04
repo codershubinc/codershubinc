@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
     return (
-        <div>Python Docs</div>
+        <div>User DashBoard</div>
     )
 }
 
