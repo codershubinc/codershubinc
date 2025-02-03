@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershubinc&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershubinc&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api?username=codershubinc&show_icons=true&rank_icon=percentile&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershubinc&exclude_repo=DJango&langs_count=10&layout=donut&theme=radical" />
 </p>
@@ -20,14 +20,12 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3>BE FUNIONS NOT ONIONS🤣😂</h3>
+<!-- <h3>BE FUNIONS NOT ONIONS🤣😂</h3> -->
 
----
+<!-- ---
 
-  <img src="https://visitcount.itsvg.in/api?id=insshubh&label=Profile%20Views&pretty=false" />
-  <br/>
   <img src="https://i.giphy.com/hVm2JYyoGy7MGqX4H8.webp" />
-
+ -->
 
 ---
 
