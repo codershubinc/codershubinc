@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle, CardDescription, CardFooter } from "@/components/ui/card";
 import Image from "next/image";
 import { Button } from "../ui/button";
 import Link from "next/link";
