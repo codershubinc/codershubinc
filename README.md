@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 
   <img   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codershubinc&theme=github_dark" alt="Profile Details" style='width:100vw;' />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershubinc&theme=radical" style='width:100vw;' />
+  </div>
 <div align="center"  >
  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codershubinc&theme=github_dark" alt="Top Languages"/>
