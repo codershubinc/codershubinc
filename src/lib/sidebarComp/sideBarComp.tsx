@@ -23,6 +23,7 @@ function SideBarComp({ arrayOfLinksWithTitle, isVisible }: SideBarCompProps) {
             </div>
         </div>
 
+
     );
 }
 
