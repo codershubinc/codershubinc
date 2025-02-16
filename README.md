@@ -1,12 +1,13 @@
-## 👋 Hey Coders, Welcome to [CODERSHUBINC](https://codershubinc.vercel.app) 🚀
+## 👋 Hey Coders, Welcome to [CODERSHUBINC](https://codershubinc.tech) 🚀
 ---
 ***
 
 $ CURRENT STATUS 
 
-# Currently working on Your Book web
+# Currently working on open-api-ts
 
-#Repo link 🔗 https://github.com/codershubinc/YourBook
+#Repo link 🔗 https://github.com/codershubinc/Yopen-api-ts
+### this repo is based on my prev repo open-api , thiks is for making best dir strucrture , improving overall project with isence of "TS" . 
 ## If you have some feature in your mind, you can contact me at mail ingleswapnil2004@gmail.com
 
 ****
