@@ -1,16 +1,21 @@
 ## 👋 Hey Coders, Welcome to [CODERSHUBINC](https://codershubinc.tech) 🚀
----
-***
 
-$ CURRENT STATUS 
+---
+
+---
+
+$ CURRENT STATUS
 
 # Currently working on open-api-ts
 
-#Repo link 🔗 https://github.com/codershubinc/Yopen-api-ts
-### this repo is based on my prev repo open-api , thiks is for making best dir strucrture , improving overall project with isence of "TS" . 
-## If you have some feature in your mind, you can contact me at mail ingleswapnil2004@gmail.com
+# Repo link 🔗 https://github.com/codershubinc/open-api-ts
 
-****
+### This repo is based on my previous repo open-api. This is for making the best directory structure and improving the overall project with the essence of "TS".
+
+## If you have some features in your mind, you can contact me at mail ingleswapnil2004@gmail.com
+
+---
+
 ---
 
 ### 🌟 Passionate About Code & Open Source
