@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 
 <div align="center" style="display:flex;flex-direction:column;gap:5px;justify-content:center;width:100%;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=codershubinc&show_icons=true&rank_icon=percentile&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codershubinc&show_icons=true&rank_icon=&theme=radical" />
 
 </div>
 
