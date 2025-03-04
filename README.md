@@ -69,8 +69,6 @@ $ CURRENT STATUS
 <div style="display:flex;gap:5px" align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershubinc&exclude_repo=DJango&langs_count=10&layout=donut&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codershubinc&exclude_repo=&langs_count=10&layout=donut&theme=radical" />
-
 </div>
 
 ---
