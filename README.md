@@ -2,8 +2,6 @@
 
 ---
 
----
-
 $ CURRENT STATUS
 
 # Currently working on open-api-ts
@@ -16,12 +14,13 @@ $ CURRENT STATUS
 
 ---
 
----
+# 🌟 Passionate About Code & Open Source Development
 
-### 🌟 Passionate About Code & Open Source
+## Welcome to my GitHub profile! I love working on web development, backend technologies, and exploring new programming languages. Let's collaborate and build something amazing!
 
-Welcome to my GitHub profile! I love working on web development, backend technologies, and exploring new programming languages. Let's collaborate and build something amazing!  
-📧 **Contact:** codershubinc@gmail.com
+## **Contact:** ingleswapnil2004@gmail.com
+
+## 📧 **Contact:** codershubinc@gmail.com
 
 ---
 
@@ -30,7 +29,7 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codershubinc&theme=github_dark" alt="Profile Details" style="width:100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershubinc&theme=radical&nocache=9338548" style="width:100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codershubinc&theme=radical" style="width:100%;" />
 
 </div>
 
@@ -63,7 +62,7 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 
 <div align="center" style="display:flex;flex-direction:column;gap:5px;justify-content:center;width:100%;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=codershubinc&show_icons=true&rank_icon=&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codershubinc&show_icons=true&rank_icon=percentile&theme=radical" />
 
 </div>
 
@@ -84,4 +83,4 @@ Welcome to my GitHub profile! I love working on web development, backend technol
 
 </div>
 
-🌟 **If you like my work, consider giving a star!** 🚀✨
+# 🌟 **If you like my work, consider giving a star!** 🚀✨
