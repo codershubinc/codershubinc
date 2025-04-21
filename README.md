@@ -82,3 +82,4 @@ $ CURRENT STATUS
 </div>
 
 # 🌟 **If you like my work, consider giving a star!** 🚀✨
+ <img src="./wave.svg" />
