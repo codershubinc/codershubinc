@@ -1,17 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=👋+Hey+Coders,&fontAlignY=37&desc=+Welcome+to+CODERSHUBINC&descAlign=50&descSize=40&animation=twinkling&fontColor=ffffff">
 
-
- #  [visit 🚀 🔗](https://codershubinc.tech) 
+# [visit 🚀 🔗](https://codershubinc.tech)
 
 ---
 
 $ CURRENT STATUS
 
-# Currently working on open-api-ts
+# Currently working on my portfolio website
 
-# Repo link 🔗 https://github.com/codershubinc/open-api-ts
+# Repo link 🔗 https://github.com/codershubinc/portfolio
 
-### This repo is based on my previous repo open-api. This is for making the best directory structure and improving the overall project with the essence of "TS".
+% ### This repo is based on my previous repo open-api. This is for making the best directory structure and improving the overall project with the essence of "TS".
 
 ## If you have some features in your mind, you can contact me at mail ingleswapnil2004@gmail.com
 
@@ -85,4 +84,5 @@ $ CURRENT STATUS
 </div>
 
 # 🌟 **If you like my work, consider giving a star!** 🚀✨
+
  <img src="./wave.svg" />
