@@ -10,8 +10,6 @@
 
 ### Repo link 🔗 https://github.com/codershubinc/portfolio
 
-<!-- %### This repo is based on my previous repo open-api. This is for making the best directory structure and improving the overall project with the essence of "TS". -->
-
 ## If you have some features in your mind, you can contact me at mail ingleswapnil2004@gmail.com
 
 ---
