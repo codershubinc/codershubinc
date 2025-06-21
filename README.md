@@ -78,6 +78,7 @@
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://profile-counter.glitch.me/codershubinc/count.svg)
 
 </div>
 
