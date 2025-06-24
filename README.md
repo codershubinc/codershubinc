@@ -14,7 +14,7 @@
 
 --- -->
 
-# 🌟 Passionate About Code & Open Source Development
+# 🌟 Passionate About Softwares & Backend Development 😉
 
 ## Welcome to my GitHub profile! I love working on web development, backend technologies, and exploring new programming languages. Let's collaborate and build something amazing!
 
