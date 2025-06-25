@@ -68,6 +68,8 @@ Hi there! I'm really into software and backend development. I love creating web 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <br/>
+  Profile Visited
   <img src="https://profile-counter.glitch.me/codershubinc/count.svg" alt="Profile Counter" />
 </div>
 
