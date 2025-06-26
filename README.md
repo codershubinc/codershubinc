@@ -16,7 +16,7 @@
 
 # 🌟 About Me
 
-Hi there! I'm really into software and backend development. I love creating web apps, exploring backend technologies, and picking up new programming languages along the way. If you're into coding too and want to team up, let's connect and make something awesome together!
+#### Hi there! I'm really into software and backend development. I love creating web apps, exploring backend technologies, and picking up new programming languages along the way. If you're into coding too and want to team up, let's connect and make something awesome together!
 
 **Contact me anytime:**
 
