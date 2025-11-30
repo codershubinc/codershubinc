@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]Hi, I'm **Swapnil Ingle**, a **Full Stack & Backend Developer** and **B.Tech AIML** student at **Chhatrapati Shivaji Maharaj University**.
+Hi, I'm **Swapnil Ingle**, a **Full Stack & Backend Developer** and **B.Tech AIML** student at **Chhatrapati Shivaji Maharaj University**.
 
 I specialize in building scalable APIs, developer tools, and system architectures. As a Linux enthusiast (using **Arch** & **Kali**), I am passionate about open-source and currently expanding my expertise in **Systems Programming (Rust)** and **Machine Learning**.
 
