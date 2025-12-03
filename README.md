@@ -104,12 +104,11 @@ I specialize in building scalable APIs, developer tools, and system architecture
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-  <br/>
-  <br/>
-  Profile Visited<br/>
-  <img src="https://profile-counter.glitch.me/codershubinc/count.svg" alt="Profile Counter" />
+  <br/> 
 </div>
 
-# 🌟 If you enjoy my work, please consider giving a star! 🚀✨
+### 🌟 If you enjoy my work, please consider giving a star! 🚀✨
+<img src="https://komarev.com/ghpvc/?username=codershubinc&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />
+
 
 <img src="./wave.svg" />
