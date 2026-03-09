@@ -20,7 +20,7 @@
 <div align="center">
   <p>
     📍 <b>Panvel, Mumbai</b><br/>
-    📧 <a href="mailto:ingleswapnil2004@gmail.com">ingleswapnil2004@gmail.com</a> | 🌐 <a href="https://codershubinc.tech">codershubinc.tech</a>
+    📧 <a href="mailto:ingleswapnil2004@gmail.com">ingleswapnil2004@gmail.com</a> | 🌐 <a href="https://codershubinc.com">codershubinc.com</a>
   </p>
 </div>
 
