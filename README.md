@@ -9,10 +9,10 @@
     <a href="https://linkedin.com/in/swapnil-ingle-codershubinc">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://codershubinc.tech">
+    <a href="https://codershubinc.com">
         <img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
-    <a href="https://portfolio.codershubinc.tech">
+    <a href="https://portfolio.codershubinc.com">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
     </a>
 </div>
