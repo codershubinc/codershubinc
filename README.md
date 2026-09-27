@@ -124,7 +124,7 @@
 <div align="center">
   <h3>⚡ Fun Fact & Music</h3>
   <p><i>"I code best while listening to Nusrat Ji." 🎶</i></p>
-  <img style="max-width: 100%;" src="https://sp-card-t.vercel.app" alt="Spotify Playing Card" />
+  <img style="max-width: 100%;" src="https://quazaar-sync.codershubinc.com/api/current.svg" alt="Spotify Playing Card" />
 </div>
 
 <br />
